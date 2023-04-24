@@ -16,7 +16,7 @@ Your morning teacher will provide a demonstration before you start each section.
 
 ## Set up instructions
 - Fork this repository and clone the forked version to your machine
-- Open the tdd-domain-modelling.sln in Visual Studio
+- Open tdd-domain-modelling.sln in Visual Studio
 
 ## Test Output
 
