@@ -43,9 +43,9 @@ I want to search a list of all cohorts by a cohort name.
 
 ### Exercise
 
-**NOTE: Create new classes in the `./src/main/java/com.booleanuk/core/` directory**
+**NOTE: Create new classes in the Main project **
 
-**NOTE: Create new test classes in the `./src/test/java/com.booleanuk/core/` directory**
+**NOTE: Create any new test classes in the Test project **
 
 - Use the Red, Green, Refactor approach to create a solution for the following domain model
 - It's normal for this practice to feel difficult or frustrating in the beginning
