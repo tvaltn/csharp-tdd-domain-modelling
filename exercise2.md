@@ -1,6 +1,7 @@
 # 2. Use the Red Green Refactor workflow to implement a solution
 
-There is a class in `./src/main/java/com.booleanuk/code/CohortManager.java` and a test class in `./src/test/java/com.booleanuk/core/CohortManagerTest.java`. Your morning teacher will demonstrate the process of creating tests from the domain model below, and then using those tests to develop robust source code.
+There is a class in the Main project called CohortManager.cs and a test class in Test project called CohortManagerTests.cs   
+Your morning teacher will demonstrate the process of creating tests from the domain model below, and then using those tests to develop robust source code.
 
 This is known as the **Red, Green, Refactor** workflow; an important discipline to practice. Simple to learn yet difficult to master.
 
