@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tdd_domain_modelling.CSharp.Main
 {
-    internal class CohortManager
+    public class CohortManager
     {
     }
 }
