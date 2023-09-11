@@ -1,13 +1,15 @@
-﻿using tdd_domain_modelling.CSharp.Main;
+﻿using NUnit.Framework;
+using tdd_domain_modelling.CSharp.Main;
 
 namespace tdd_domain_modelling.CSharp.Test
 {
+    [TestFixture]
     public class CohortManagerTest
     {
-        private CohortManager _core;
-        public CohortManagerTest()
+        [Test]
+        public void FirstTest()
         {
-            _core = new CohortManager();
+            CohortManager core = new CohortManager();
         }
     }
 }
