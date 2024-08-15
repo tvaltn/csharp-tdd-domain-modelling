@@ -37,8 +37,9 @@ I bought as well as the quantity, and a total cost of my basket.
 
 Here we want to output a receipt that includes a list of the products with their name and price.
 We also want to output the total number of products, as well the total cost of the products.
-As a very simple case, we can just store all this information in a list
+As a very simple case, we can just store all this information within a tuple;
 
-| Classes         | Methods                                     | Scenario               | Outputs |
-|-----------------|---------------------------------------------|------------------------|---------|
-| `ReceiptPrinter`| `printReceipt(Dictionary<string, int> basket`| Print receipt          | list |
+
+| Classes         | Methods                                     | Scenario         | Outputs                |
+|-----------------|---------------------------------------------|------------------|------------------------|
+| `ReceiptPrinter`| `getReceipt(Dictionary<string, int> basket` | get receipt      | (dictionary, int, int) |
